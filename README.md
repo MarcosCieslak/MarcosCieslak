@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarcosCieslak
-- 👀 I’m interested in  aprender e desenvolver sites e aplicativos
-- 🌱 I’m currently learning  html5 e css3
-- 💞️ I’m looking to collaborate on html, css, JavaScrit e Python
-- 📫 How to reach me  pode ser aqui mesmo pelo GuiHub
+- 👀 I’m interested in aprender e desenvolver sites e aplicativos
+- 🌱 I’m currently learning Html5, Css3, JavaScrit e Python.
+- 💞️ I’m looking to collaborate on html e css.
+- 📫 How to reach me pode ser aqui mesmo pelo GuiHub
 
 <!---
 MarcosCieslak/MarcosCieslak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
